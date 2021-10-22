@@ -1,0 +1,122 @@
+{
+  "cap": [
+    {
+      "id": "0001",
+      "name": "Jordan Jumpman Classic99 Metal Cap",
+      "style": "Casual",
+      "size": "M",
+      "price": 149.00,
+      "offer": false
+    },
+    {
+      "id": "0002",
+      "name": "Jordan Jumpman Heritage86 Unisex Cap",
+      "style": "Basketball",
+      "size": "G",
+      "price": 149.00,
+      "offer": false
+    },
+    {
+      "id": "0003",
+      "name": "Jordan Pro Jumpman Unisex Cap",
+      "style": "Casual",
+      "size": "P",
+      "price": 135.00,
+      "offer": true
+    },
+    {
+      "id": "0004",
+      "name": "Jordan Jordan Sport DNA Classic99 Cap",
+      "style": "Basketball",
+      "size": "GG",
+      "price": 110.00,
+      "offer": true
+    }
+  ],
+  "shirt" : [
+    {
+      "id": "0005",
+      "name": "Jordan Dri-FIT Air Men's T-Shirt",
+      "style": "Casual",
+      "size": "G",
+      "price": 179.00,
+      "offer": false
+    },
+    {
+      "id": "0006",
+      "name": "Men's Jordan Air Wordmark T-Shirt",
+      "style": "Casual",
+      "size": "P",
+      "price": 179.00,
+      "offer": false
+    },
+    {
+      "id": "0007",
+      "name": "Men's Jordan AJ11 Men's T-Shirt",
+      "style": "Casual",
+      "size": "M",
+      "price": 149.00,
+      "offer": true
+    },
+    {
+      "id": "0008",
+      "name": "Jordan Jumpman Men's T-Shirt",
+      "style": "Casual",
+      "size": "GG",
+      "price": 149.00,
+      "offer": false
+    }
+  ],
+  "jacket" : [
+    {
+      "id": "0009",
+      "name": "Jordan Sport DNA Male Jacket",
+      "style": "Casual",
+      "size": "G",
+      "price": 429.00,
+      "offer": false
+    },
+    {
+      "id": "0010",
+      "name": "Jordan Legacy AJ6 Men's Jacket",
+      "style": "Casual",
+      "size": "M",
+      "price": 419.00,
+      "offer": true
+    }
+  ],
+  "sneakers" : [
+    {
+      "id": "0011",
+      "name": "Air Jordan 1 Mid Men's Shoes",
+      "style": "Basketball",
+      "size": "40",
+      "price": 999.00,
+      "offer": false
+    },
+    {
+      "id": "0012",
+      "name": "Air Jordan XXXV Low Men's Shoes",
+      "style": "Basketball",
+      "size": "43",
+      "price": 1109.00,
+      "offer": true
+    },
+    {
+      "id": "0013",
+      "name": "Jordan Jumpman 2021 Men's Shoes",
+      "style": "Basketball",
+      "size": "38",
+      "price": 749.00,
+      "offer": false
+    },
+    {
+      "id": "0014",
+      "name": "Men's Air Jordan XXXV Shoes",
+      "style": "Basketball/Casual",
+      "size": "41",
+      "price": 1099.00,
+      "offer": false
+    }
+  ]
+}
